@@ -1,5 +1,3 @@
-# codingProject5
-
 <h3>Note: group work was done via liveshare</h3>
 
 <h1>Notice before running: When running a downloaded test file, the input was full of errors. By copying and pasting a text file into one present within the directory, it began working again - not sure why this occurs, I think it has to do with txt files</h1>
@@ -29,7 +27,7 @@
     <li> <b>Text Files</b> - files used to test the programs provided on brightspace
 </ul>
 
-<h1>Group Members</h1>
+<h1>Partners</h1>
 <ul>
     <li> Yin Hei (Jason) Chan
     <li> Nicolas Said
