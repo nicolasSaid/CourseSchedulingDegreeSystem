@@ -1,7 +1,5 @@
 <h3>Note: group work was done via liveshare</h3>
 
-<h1>Notice before running: When running a downloaded test file, the input was full of errors. By copying and pasting a text file into one present within the directory, it began working again - not sure why this occurs, I think it has to do with txt files</h1>
-
 <h2>How to run</h2>
 <ol>
     <li> run <i>make</i> to generate three executables:
